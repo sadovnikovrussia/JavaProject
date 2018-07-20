@@ -1,2 +1,2 @@
 # JavaProject
-Изучение работы с git in IntellijIdea
+Изучение работы с git в IntelliJIdea
